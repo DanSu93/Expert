@@ -1,0 +1,42 @@
+F:\Maxim Goltesv\Projects\C#\Expert\Expert\bin\Debug\Expert.exe.config
+F:\Maxim Goltesv\Projects\C#\Expert\Expert\bin\Debug\Expert.exe
+F:\Maxim Goltesv\Projects\C#\Expert\Expert\bin\Debug\Expert.pdb
+F:\Maxim Goltesv\Projects\C#\Expert\Expert\obj\Debug\Expert.csprojResolveAssemblyReference.cache
+F:\Maxim Goltesv\Projects\C#\Expert\Expert\obj\Debug\Expert.Properties.Resources.resources
+F:\Maxim Goltesv\Projects\C#\Expert\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+F:\Maxim Goltesv\Projects\C#\Expert\Expert\obj\Debug\Expert.csproj.CoreCompileInputs.cache
+F:\Maxim Goltesv\Projects\C#\Expert\Expert\obj\Debug\Expert.exe
+F:\Maxim Goltesv\Projects\C#\Expert\Expert\obj\Debug\Expert.pdb
+F:\Maxim Goltesv\Projects\C#\Expert\Expert\obj\Debug\Expert.frmMain.resources
+C:\Users\nairo\Desktop\Expert\Expert\bin\Debug\Expert.exe.config
+C:\Users\nairo\Desktop\Expert\Expert\bin\Debug\Expert.exe
+C:\Users\nairo\Desktop\Expert\Expert\bin\Debug\Expert.pdb
+C:\Users\nairo\Desktop\Expert\Expert\obj\Debug\Expert.csprojResolveAssemblyReference.cache
+C:\Users\nairo\Desktop\Expert\Expert\obj\Debug\Expert.frmMain.resources
+C:\Users\nairo\Desktop\Expert\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\nairo\Desktop\Expert\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Users\nairo\Desktop\Expert\Expert\obj\Debug\Expert.csproj.CoreCompileInputs.cache
+C:\Users\nairo\Desktop\Expert\Expert\obj\Debug\Expert.exe
+C:\Users\nairo\Desktop\Expert\Expert\obj\Debug\Expert.pdb
+C:\Users\nairo\Desktop\Expert — копия\Expert\bin\Debug\Expert.exe.config
+C:\Users\nairo\Desktop\Expert — копия\Expert\bin\Debug\Expert.exe
+C:\Users\nairo\Desktop\Expert — копия\Expert\bin\Debug\Expert.pdb
+C:\Users\nairo\Desktop\Expert — копия\Expert\obj\Debug\Expert.csprojResolveAssemblyReference.cache
+C:\Users\nairo\Desktop\Expert — копия\Expert\obj\Debug\Expert.frmMain.resources
+C:\Users\nairo\Desktop\Expert — копия\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\nairo\Desktop\Expert — копия\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Users\nairo\Desktop\Expert — копия\Expert\obj\Debug\Expert.csproj.CoreCompileInputs.cache
+C:\Users\nairo\Desktop\Expert — копия\Expert\obj\Debug\Expert.exe
+C:\Users\nairo\Desktop\Expert — копия\Expert\obj\Debug\Expert.pdb
+C:\Users\nairo\Desktop\Expert\Expert\obj\Debug\Expert.FrmResult.resources
+E:\Maxim Goltsev\Projects\C#\Университетские программы\Expert\Expert\bin\Debug\Expert.exe.config
+E:\Maxim Goltsev\Projects\C#\Университетские программы\Expert\Expert\bin\Debug\Expert.exe
+E:\Maxim Goltsev\Projects\C#\Университетские программы\Expert\Expert\bin\Debug\Expert.pdb
+E:\Maxim Goltsev\Projects\C#\Университетские программы\Expert\Expert\obj\Debug\Expert.csprojAssemblyReference.cache
+E:\Maxim Goltsev\Projects\C#\Университетские программы\Expert\Expert\obj\Debug\Expert.FrmMain.resources
+E:\Maxim Goltsev\Projects\C#\Университетские программы\Expert\Expert\obj\Debug\Expert.FrmResult.resources
+E:\Maxim Goltsev\Projects\C#\Университетские программы\Expert\Expert\obj\Debug\Expert.Properties.Resources.resources
+E:\Maxim Goltsev\Projects\C#\Университетские программы\Expert\Expert\obj\Debug\Expert.csproj.GenerateResource.cache
+E:\Maxim Goltsev\Projects\C#\Университетские программы\Expert\Expert\obj\Debug\Expert.csproj.CoreCompileInputs.cache
+E:\Maxim Goltsev\Projects\C#\Университетские программы\Expert\Expert\obj\Debug\Expert.exe
+E:\Maxim Goltsev\Projects\C#\Университетские программы\Expert\Expert\obj\Debug\Expert.pdb
